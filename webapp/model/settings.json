@@ -1,0 +1,25 @@
+{
+	"urls": [
+		{
+			"name": "Identification de visages",
+			"url": "/ml/api/v2/image/classification/models/Personnes_optimized3/versions/2",
+			"headers": {
+				"APIKey": "mCfiGPMAXJVNXKgujL4BDX0X5lK9UtOB"
+			}
+		}
+	],
+	"rgpd": [
+		{
+			"name": "Marc-Antoine BERTHET",
+			"color": "Error"
+		},
+		{
+			"name": "Fabien BEURET",
+			"color": "Good"
+		},
+		{
+			"name": "Hugo BALLAY",
+			"color": "Good"
+		}
+	]
+}
